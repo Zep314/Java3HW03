@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="990ab2c8-5cae-46dc-be3d-71984f4cc604" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/FieldBirthdayNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/FieldFirstNameNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/FieldLastNameNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/FieldMiddleNameNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/FieldPhoneNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/FieldSexNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/NotEnoughArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task01/src/myexception/TooMuchArgumentException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tak01_log.txt.0" beforeDir="false" afterPath="$PROJECT_DIR$/tak01_log.txt.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tak01_log.txt.4" beforeDir="false" afterPath="$PROJECT_DIR$/tak01_log.txt.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task01/src/com/my/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/task01/src/com/my/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task01/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/task01/src/controller/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task01/src/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/task01/src/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task01/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/task01/src/view/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Work/Java/dz3/Java3HW03"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Work/Java/dz3/Java3HW03&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="task01" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.my.Main" />

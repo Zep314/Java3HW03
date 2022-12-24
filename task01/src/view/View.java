@@ -12,7 +12,7 @@ public class View { // Класс вьювер - отображение на э�
             LogManager.getLogManager().readConfiguration( // берем конфиг для логов
                     View.class.getResourceAsStream("../log.config"));
         } catch (IOException e) {  // печаль, беда...
-            System.err.println("Could not setup logger configuration: " + e.toString());
+            System.err.println("Could not setup logger configuration: " + e.getMessage());
         }
     }
     public void printInfo(String string) {
